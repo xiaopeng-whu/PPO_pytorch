@@ -25,6 +25,7 @@ $ cd PPO_pytorch
 ### Results
 ---
 * BipedalWalker-v2
+
 ![](/PPO_gifs/BipedalWalker-v2/PPO_BipedalWalker-v2_gif_0.gif)
 
 ![](/PPO_figs/BipedalWalker-v2/PPO_BipedalWalker-v2_fig_0.png)
