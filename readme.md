@@ -7,7 +7,6 @@ This is a simple implement of [Proximal Policy Optimization Algorithms](https://
 * Migrate to linux platform to complete testing in [roboschool](https://github.com/openai/roboschool) environment.
 * Use GAE(Generalized Advantage Estimation) instead of monte-carlo estimate.
 
-
 ### How to run
 ---
 * Clone repository :
