@@ -25,9 +25,9 @@ $ cd PPO_pytorch
 ### Results
 ---
 * BipedalWalker-v2
-<img align="center" src="PPO_gifs/BipedalWalker-v2/PPO_BipedalWalker-v2_fig_0.gif">
+![](https://github.com/xiaopeng-whu/PPO/tree/master/PPO_gifs/BipedalWalker-v2/PPO_BipedalWalker-v2_fig_0.gif)
 
-<img align="center" src="PPO_figs/BipedalWalker-v2/PPO_BipedalWalker-v2_fig_0.png">
+![](https://github.com/xiaopeng-whu/PPO/tree/master/PPO_gifs/BipedalWalker-v2/PPO_BipedalWalker-v2_fig_0.png)
 
 ### Dependencies
 ---
